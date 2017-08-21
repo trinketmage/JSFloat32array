@@ -1,0 +1,25 @@
+{
+  "name": "float32array-js",
+  "version": "1.0.0",
+  "description": "Javscript float32array utils",
+  "main": "src/Float32array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinketmage/JSFloat32array.git"
+  },
+  "keywords": [
+    "javascript",
+    "float32array",
+    "contat",
+    "float32"
+  ],
+  "author": "Remi Tran <tranremi@live.fr> (https://trinketmage.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinketmage/JSFloat32array/issues"
+  },
+  "homepage": "https://github.com/trinketmage/JSFloat32array#readme"
+}
